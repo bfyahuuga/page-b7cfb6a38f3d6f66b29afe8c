@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-279d313f40.viptuk.cn/sitemap.xml
